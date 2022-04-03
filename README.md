@@ -8,7 +8,7 @@ Group name: กลุ่มนั้น
 3. นางสาวภิญญาดา เพ็ญสุข 623021052-2 สารสนเทศสถิติ
 
 ### Presentation
-* [Canva](https://www.canva.com/design/DAE8z4IJczU/THL97_v9dAQ-8eR0eJiW_w/edit) *
+* [Canva](https://github.com/Narissarach/data_viz_2022/blob/main/Project%20%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B9%89%E0%B8%99.pdf) *
 
 ### Colab
 * [ProjectDashBoard ](https://github.com/Narissarach/data_viz_2022/blob/main/ProjectDashboard.ipynb) *
