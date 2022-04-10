@@ -15,3 +15,14 @@ Group name: กลุ่มนั้น
 
 ### Google data Studio
 * [DashBoard](https://datastudio.google.com/reporting/1288b74c-eaff-4ed3-af5d-74c9ecc2e292/page/6nPpC) *
+---
+### :point_right: Final กลุ่ม
+##### Group Name : alphabetical
+#### รายชื่อสมาชิก
+| รหัสนักศึกษา | ชื่อ-สกุล | สาขา |
+| ----------- | ----------- |----------- |
+| 623020041-2 | นางสาวมินตรา ทิพยรัตน์สุนทร | SC-SI |
+| 623020765-0 | นายศิริวัฒน์ ภูลำสัตย์ | SC-SI |
+| **623021001-9** | **นางสาวนริศรา ชัยฤทธิ์** | **SC-STAT** |
+* [Data pre-processing](https://github.com/Narissarach/data_viz_2022/blob/main/FinalExam_DataViz.ipynb)
+* [Dash Board](https://datastudio.google.com/u/1/reporting/2e5e6fec-b0f3-4862-ba0c-be48787ec82d/page/XwDqC)
